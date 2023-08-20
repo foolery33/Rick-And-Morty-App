@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Rick-And-Morty-App
+
+  Created by Nikita Usov on 17.08.2023.
+  
+*/
+
+// MARK: - CharactersScreen
+
+"characters" = "Characters";
+
+// MARK: - CharacterDetailsScreen
+
+"species" = "Species:";
+"type" = "Type:";
+"gender" = "Gender:";
+"alive" = "Alive";
+"dead" = "Dead";
+"unknown" = "unknown";
+"info" = "Info";
+"origin" = "Origin";
+"episodes" = "Episodes";
+"episode_with_number" = "Episode: %@";
+"season_with_number" = "Season: %@";
+"male" = "Male";
+"female" = "Female";
+"genderless" = "Genderless";
+
+// MARK: - Errors
+
+"get_character_error" = "Character loading error";
+"get_location_error" = "Location loading error";
+"get_episode_error" = "Episode loading error";
+
+"error_with_message" = "An error occurred: %@";
+"server_error" = "Server error occurred. Please try again later";
+"no_connection_to_internet_error" = "The Internet connection is disconnected.\nSet up the Internet connection and try again.";
+"timeout_error" = "The time to send the request has expired. Try again later";
+"internet_connection_lost_error" = "Your Internet connection has been lost.\nSet up your Internet connection and try again.";
+"server_error_with_message" = "Server error occurred: %@";
+"forbidden_error" = "This information or transaction is not available to you";
+"validate_error" = "An internal application error has occurred. Please try again or contact technical support";
+"data_mapping_error" = "An internal application error occurred while encoding data or executing a query. Please try again later";
+"unknown_error" = "An unexpected error has occurred. Please contact technical support";
