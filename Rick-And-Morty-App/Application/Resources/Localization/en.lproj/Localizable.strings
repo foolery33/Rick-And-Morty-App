@@ -27,6 +27,10 @@
 "female" = "Female";
 "genderless" = "Genderless";
 
+// MARK: - Common
+
+"ok" = "OK";
+
 // MARK: - Errors
 
 "get_character_error" = "Character loading error";

@@ -20,9 +20,8 @@ extension UIViewController {
             preferredStyle: .alert
         )
 
-        // TODO: Заменить на значение из R.swift
         let okAction = UIAlertAction(
-            title: "OK",
+            title: R.string.localizable.ok(),
             style: .default
         )
 

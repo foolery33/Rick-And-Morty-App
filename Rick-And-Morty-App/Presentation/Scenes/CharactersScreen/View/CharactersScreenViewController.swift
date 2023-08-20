@@ -50,7 +50,6 @@ final class CharactersScreenViewController: UIViewController {
             self?.setLoaderVisible(isLoading)
         }
 
-        // TODO: Заменить 'error' на что-то конкретное
         viewModel.error.bind { [weak self] error in
             self?.showError(
                 title: (self?.viewModel.errorType.errorTitle).orEmpty,

@@ -158,8 +158,8 @@
             filePath = "Rick-And-Morty-App/Presentation/Scenes/CharactersScreen/View/CharactersScreenViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
             landmarkName = "setupBindings()"
             landmarkType = "7">
             <Locations>
@@ -206,8 +206,8 @@
             filePath = "Rick-And-Morty-App/Presentation/Scenes/CharactersScreen/View/CharactersScreenViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
             landmarkName = "setupBindings()"
             landmarkType = "7">
          </BreakpointContent>
@@ -911,8 +911,8 @@
             filePath = "Rick-And-Morty-App/Presentation/Scenes/CharactersScreen/View/CharactersScreenViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "setupBindings()"
             landmarkType = "7">
          </BreakpointContent>
