@@ -42,6 +42,7 @@ struct CharacterDetailsScreenView<ViewModel>: View where ViewModel: CharacterDet
                             .font(Font(AppFonts.bold22))
                             .foregroundColor(AppColors.white.swiftUIColor)
                             .padding(.top, AppConstants.spacingHuge)
+                            .multilineTextAlignment(.center)
                         Text(viewModel.character.status.rawValue)
                             .font(Font(AppFonts.medium16))
                             .foregroundColor(
